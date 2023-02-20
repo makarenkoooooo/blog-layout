@@ -6,7 +6,7 @@ const list_items = [
   // "Nibh hac et integer nunc sapien.",
   // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor.",
   {
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl.",
+    text: "Hellow World!",
     href: "/posts/post_1/post_1.html",
   },
   {
