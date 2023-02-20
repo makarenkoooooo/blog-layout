@@ -7,7 +7,7 @@ const list_items = [
   // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor.",
   {
     text: "Hellow World!",
-    href: "./posts/post_1/post_1.html",
+    href: "/posts/post_1/post_1.html",
   },
   {
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl.",
