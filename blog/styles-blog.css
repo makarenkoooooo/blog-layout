@@ -1,0 +1,106 @@
+.home-section {
+  margin-top: 120px;
+}
+
+.line {
+  border: 1px solid #f0f0f0;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main p {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 17px;
+  color: #1a1a1a;
+  margin-top: 120px;
+}
+
+.main a:active,
+a:hover,
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+.main .list {
+  width: 100%;
+  max-width: 768px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+
+.main .list .item {
+  padding: 15px;
+}
+
+.main .list .item:first-of-type {
+  border-bottom: none;
+}
+
+.main .list .item:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.main {
+  max-width: 556px;
+  margin: 0 auto;
+}
+
+.list .item {
+  margin-bottom: 34px;
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 149%;
+  color: #1a1a1a;
+}
+
+.pagenumbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagenumbers button {
+  width: 50px;
+  height: 50px;
+
+  appearance: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+  margin: 5px;
+  margin-right: 23px;
+  transition: 0.4s;
+
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: #1a1a1a;
+}
+
+.pagenumbers button:hover {
+  background-color: #3f51b5;
+  color: #f0f0f0;
+}
+
+.pagenumbers button.active {
+  background-color: #3f51b5;
+  color: #f0f0f0;
+  box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.02);
+}

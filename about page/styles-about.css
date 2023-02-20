@@ -1,0 +1,100 @@
+.about-me {
+  max-width: 556px;
+  margin: 0 auto;
+}
+.about-me h1 {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 34px;
+  color: #1a1a1a;
+  text-align: center;
+  margin-top: 96px;
+}
+
+.about-me .about-text {
+  margin: 0 auto;
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27px;
+  color: #555555;
+}
+
+.skills ul li {
+  color: Grey;
+}
+
+.skills ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 17px;
+}
+
+.skills h2 {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #1a1a1a;
+  margin-top: 31px;
+  margin-bottom: 15px;
+}
+
+.skills ul li span {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27px;
+  color: #555555;
+}
+
+.projects span {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27px;
+  color: #555555;
+}
+
+.projects li {
+  color: gray;
+}
+
+.projects ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 17px;
+}
+
+.projects h2 {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #1a1a1a;
+  margin-top: 31px;
+  margin-bottom: 15px;
+}
+
+.line-about {
+  margin-top: 86px;
+  margin-bottom: 65px;
+}
+
+.last-p-about-me {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 17px;
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 60px;
+}
