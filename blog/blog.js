@@ -1,10 +1,4 @@
 const list_items = [
-  // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl.",
-  // "Ac condimentum arcu massa bibendum.",
-  // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ipsum.",
-  // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et.",
-  // "Nibh hac et integer nunc sapien.",
-  // "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor.",
   {
     text: "Hellow World!",
     href: "../posts/post_1/post_1.html",
